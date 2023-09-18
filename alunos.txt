@@ -1,0 +1,44 @@
+CREATE TABLE alunos (
+  RA  INT,
+  Nome VARCHAR (20),
+  Data de Nascimento VARCHAR (08),
+  Endereco VARCHAR (30),
+  Email VARCHAR (40));
+
+  INSERT INTO alunos (ra, nome, data, endereco, email)
+  VALUES (235618, "Fabiano", "17091981", "Jose Maria Carva", "fgmail@gmail");
+  
+  INSERT INTO alunos (ra, nome, data, endereco, email)
+  VALUES (23545, "Rodrigo", "2010191", "Paes de Linhares", "rod@gmail.com");
+  
+  INSERT INTO alunos (ra, nome, data, endereco, email)
+  VALUES (287412, "Igor", "12091986", "Avenida Itavuvu", "igo@gmail.com");
+  
+  INSERT INTO alunos (ra, nome, data, endereco, email)
+  VALUES (297474, "Andre", "05071982", "Avenida Ipanema", "andres@gmail.com");
+  
+  INSERT INTO alunos (ra, nome, data, endereco, email)
+  VALUES (27896, "William", "07081986", "Avenida Ipanema", "will@gmail.com");
+
+SELECT * FROM alunos;
+
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+  
+
