@@ -49,6 +49,11 @@ Insira os dados necessários para compor a base de dados criada;
 ![CadastroClientePet](CadastroClientePet.jpg)
 ![CadastroPet](CadastroPet.jpg)
 
+![Desenvolvedor](Desenvolvedor.jpg)
+![DesenvolvedorGame](DesenvolvedorGamer.jpg)
+
+
+
 
 
 ## Última atualização 18/09/2023
