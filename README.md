@@ -29,7 +29,7 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 ![Videoteca](Videoteca.jpg)
 
 
-## --------ETAPA 3-------
+## --------ETAPA 3 & ETAPA 4-------
 
 Siga as seguintes instruções e insira pelo menos 5 registros em cada tabela;
 
