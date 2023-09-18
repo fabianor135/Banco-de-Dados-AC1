@@ -29,7 +29,7 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 ![Videoteca](Videoteca.jpg)
 
 
-## --------ETAPA 3 & ETAPA 4-------
+## --------ETAPA 3 -------
 
 Siga as seguintes instruções e insira pelo menos 5 registros em cada tabela;
 
@@ -40,6 +40,14 @@ Siga as seguintes instruções e insira pelo menos 5 registros em cada tabela;
 2 — Crie um banco de dados para armazenar dados de colaboradores de uma empresa. Um colaborador deve ter um código de identificação, nome, CPF, cargo e salário;
 
 ![colaboradores](Colaboradores.jpg)
+
+## --------ETAPA 4 -------
+Após a criação dos MER, crie as bases de dados de cada um dos exercícios dados na ETAPA 1;
+
+Insira os dados necessários para compor a base de dados criada;
+
+![CadastroClientePet](CadastroClientePet.jpg)
+![CadastroPet](CadastroPet.jpg)
 
 
 
