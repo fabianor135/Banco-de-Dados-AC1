@@ -29,4 +29,6 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 ![Videoteca](Videoteca.jpg)
 
 
+## --------ETAPA 4-------
+
 ## Última atualização 01/01/21
