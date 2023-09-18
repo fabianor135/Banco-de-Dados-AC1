@@ -31,4 +31,11 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 ## --------ETAPA 3-------
 
+Siga as seguintes instruções:
+
+1 — Crie um banco de dados para armazenar dados de alunos. Um aluno deve ter RA, nome, data de nascimento, endereço e e-mail;
+
+1[Alunos](Alunos.jpg)
+
+
 ## Última atualização 01/01/21
