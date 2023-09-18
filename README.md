@@ -10,6 +10,7 @@ Crie um modelo de dados para os cenários a seguir:
 ![Games](Projeto_game.jpg)
 
 SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES APRESENTADOS, ALÉM DA IDENTIFICAÇÃO DOS ELEMENTOS DO DER).
+
 1 - Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com seu nome, e-mail, nacionalidade e data de nascimento. Já um livro é registrado com o título, quantidade de páginas, acabamento e editora.
 
 ![Biblioteca](Biblioteca.jpg)
