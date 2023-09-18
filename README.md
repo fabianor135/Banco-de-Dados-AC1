@@ -6,6 +6,9 @@ Crie um modelo de dados para os cenários a seguir:
 1 - Um petshop deseja manter cadastrados seus clientes bem como seus pets.
 ![Pets](Pets.jpg)
 
+2 - Em uma produtora de games, há desenvolvedores, que possuem um nome, CPF, data de nascimento.
+![Games](Projeto_game.jpg)
+
 
 
 
