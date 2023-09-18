@@ -31,11 +31,16 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 ## --------ETAPA 3-------
 
-Siga as seguintes instruções:
+Siga as seguintes instruções e insira pelo menos 5 registros em cada tabela;
 
 1 — Crie um banco de dados para armazenar dados de alunos. Um aluno deve ter RA, nome, data de nascimento, endereço e e-mail;
 
 ![Alunos](Alunos.jpg)
+
+2 — Crie um banco de dados para armazenar dados de colaboradores de uma empresa. Um colaborador deve ter um código de identificação, nome, CPF, cargo e salário;
+
+![colaboradores](Colaboradores.jpg)
+
 
 
 ## Última atualização 01/01/21
