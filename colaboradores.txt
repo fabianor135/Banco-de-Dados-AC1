@@ -1,0 +1,23 @@
+CREATE TABLE colaboradores (
+  CODIGO INT,
+  Nome VARCHAR (35),
+  CPF VARCHAR (15),
+  Cargo VARCHAR (20),
+  Salario VARCHAR (10));
+
+INSERT INTO colaboradores (codigo, nome, cpf, cargo, salario)
+VALUES (85698 , "Fabiano", "38975854789", "estagiario", "faian@gmail.com");
+
+INSERT INTO colaboradores (codigo, nome, cpf, cargo, salario)
+VALUES (85988 , "Carlos", "1877941211", "compras", "carlorolm@gmail.com");
+
+INSERT INTO colaboradores (codigo, nome, cpf, cargo, salario)
+VALUES (86447 , "Rodrigo", "45879632110", "compras", "rodrigorai@gmail.com");
+
+INSERT INTO colaboradores (codigo, nome, cpf, cargo, salario)
+VALUES (457698 , "Matias", "78956817823", "manutencao", "matiaszebra@gmail.com");
+
+INSERT INTO colaboradores (codigo, nome, cpf, cargo, salario)
+VALUES (75485 , "Fabio", "47895825825", "RH", "fabiocolombo@gmail.com)";
+
+SELECT * FROM colaboradores;
